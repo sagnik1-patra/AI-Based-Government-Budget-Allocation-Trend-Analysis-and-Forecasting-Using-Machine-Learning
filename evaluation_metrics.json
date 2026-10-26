@@ -1,0 +1,23 @@
+{
+    "project": "AI-Based Government Budget Allocation Trend Analysis and Forecasting",
+    "evaluation_type": "In-sample training evaluation",
+    "linear_regression": {
+        "MAE": 3.0488888888889014,
+        "MSE": 10.45768888888893,
+        "RMSE": 3.2338350126264834,
+        "R2": 0.9934667541031382,
+        "MAPE": 1.3343903788262805,
+        "Accuracy_Percentage": 98.66560962117372
+    },
+    "artificial_neural_network": {
+        "MAE": 7.731119798866834e-06,
+        "MSE": 7.003545774153519e-11,
+        "RMSE": 8.368719002424158e-06,
+        "R2": 0.9999999999999563,
+        "MAPE": 3.1731042305611158e-06,
+        "Accuracy_Percentage": 99.99999682689577
+    },
+    "dataset_records": 3,
+    "forecast_years": 6,
+    "warning": "The dataset is too small for reliable forecast validation. Predictions are illustrative."
+}

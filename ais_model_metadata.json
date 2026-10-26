@@ -1,0 +1,20 @@
+{
+    "algorithm": "Artificial Immune System",
+    "optimization": "CLONALG",
+    "dataset": "RS_Session_252_AU_600.csv",
+    "total_records": 3,
+    "best_antibody": [
+        -0.0001873091920176111,
+        0.992187252278392
+    ],
+    "best_fitness": 0.006553899590681245,
+    "metrics": {
+        "MAE": 3.051386881747135,
+        "MSE": 10.49074901057723,
+        "RMSE": 3.2389425759925463,
+        "R2": 0.9934461004093188,
+        "MAPE": 1.3220320746561762,
+        "Accuracy_Percentage": 98.67796792534382
+    },
+    "limitations": "Small dataset; forecasts are experimental."
+}

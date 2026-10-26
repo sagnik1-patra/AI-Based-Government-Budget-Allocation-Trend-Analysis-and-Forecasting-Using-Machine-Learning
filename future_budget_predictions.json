@@ -1,0 +1,32 @@
+[
+    {
+        "Year": 2020,
+        "Linear_Regression_Prediction": 332.35333333333335,
+        "ANN_Prediction": 319.3404541015625
+    },
+    {
+        "Year": 2021,
+        "Linear_Regression_Prediction": 381.1933333333333,
+        "ANN_Prediction": 352.6234436035156
+    },
+    {
+        "Year": 2022,
+        "Linear_Regression_Prediction": 430.0333333333333,
+        "ANN_Prediction": 385.90643310546875
+    },
+    {
+        "Year": 2023,
+        "Linear_Regression_Prediction": 478.87333333333333,
+        "ANN_Prediction": 419.1894226074219
+    },
+    {
+        "Year": 2024,
+        "Linear_Regression_Prediction": 527.7133333333334,
+        "ANN_Prediction": 452.472412109375
+    },
+    {
+        "Year": 2025,
+        "Linear_Regression_Prediction": 576.5533333333334,
+        "ANN_Prediction": 485.6984558105469
+    }
+]

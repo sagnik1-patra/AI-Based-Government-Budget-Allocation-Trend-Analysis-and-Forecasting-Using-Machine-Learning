@@ -1,0 +1,12 @@
+project: Government Budget Allocation Forecasting
+algorithm: Particle Swarm Optimization
+model: Linear Trend
+particles: 50
+iterations: 200
+inertia_weight: 0.7
+cognitive_coefficient: 1.5
+social_coefficient: 1.5
+features:
+- Year
+target: Budget_Allocation
+evaluation: Training Data Only

@@ -1,0 +1,19 @@
+{
+    "algorithm": "Particle Swarm Optimization",
+    "dataset": "RS_Session_252_AU_600.csv",
+    "total_records": 3,
+    "best_particle": [
+        -2.029586443254871e-10,
+        0.9967280244078184
+    ],
+    "best_fitness": 0.0065332458968618105,
+    "metrics": {
+        "MAE": 3.0488888915956047,
+        "MSE": 10.457688888888974,
+        "RMSE": 3.2338350126264905,
+        "R2": 0.9934667541031381,
+        "MAPE": 1.3343903808348883,
+        "Accuracy_Percentage": 98.66560961916511
+    },
+    "limitations": "The dataset is too small for reliable future forecasting."
+}

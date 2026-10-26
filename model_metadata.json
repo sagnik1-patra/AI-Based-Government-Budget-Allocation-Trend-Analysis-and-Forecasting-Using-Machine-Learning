@@ -1,0 +1,33 @@
+{
+    "project_name": "AI-Based Government Budget Allocation Trend Analysis and Forecasting",
+    "dataset_name": "RS_Session_252_AU_600.csv",
+    "total_records": 3,
+    "features": [
+        "Year"
+    ],
+    "target": "Budget_Allocation",
+    "models": [
+        "Linear Regression",
+        "Artificial Neural Network"
+    ],
+    "linear_regression_metrics": {
+        "MAE": 3.0488888888889014,
+        "MSE": 10.45768888888893,
+        "RMSE": 3.2338350126264834,
+        "R2_Score": 0.9934667541031382
+    },
+    "ann_metrics": {
+        "MAE": 7.731119798866834e-06,
+        "MSE": 7.003545774153519e-11,
+        "RMSE": 8.368719002424158e-06,
+        "R2_Score": 0.9999999999999563
+    },
+    "model_files": {
+        "ann_model": "budget_prediction_model.h5",
+        "linear_regression_model": "budget_prediction_model.pkl",
+        "x_scaler": "x_scaler.pkl",
+        "y_scaler": "y_scaler.pkl"
+    },
+    "evaluation_type": "Training data only",
+    "limitations": "Small historical dataset; predictions are illustrative and not validated forecasts."
+}

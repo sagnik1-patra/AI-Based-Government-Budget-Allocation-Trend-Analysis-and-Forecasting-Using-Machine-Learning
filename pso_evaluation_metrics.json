@@ -1,0 +1,23 @@
+{
+    "algorithm": "Particle Swarm Optimization",
+    "dataset_records": 3,
+    "PSO_Metrics": {
+        "MAE": 3.0488888915956047,
+        "MSE": 10.457688888888974,
+        "RMSE": 3.2338350126264905,
+        "R2": 0.9934667541031381,
+        "MAPE": 1.3343903808348883,
+        "Accuracy_Percentage": 98.66560961916511
+    },
+    "Baseline_Metrics": {
+        "MAE": 3.0488888888889014,
+        "MSE": 10.45768888888893,
+        "RMSE": 3.2338350126264834,
+        "R2": 0.9934667541031382,
+        "MAPE": 1.3343903788262805,
+        "Accuracy_Percentage": 98.66560962117372
+    },
+    "Best_Fitness": 0.0065332458968618105,
+    "Evaluation_Type": "In-sample training",
+    "Warning": "The dataset is too small for reliable forecast validation."
+}

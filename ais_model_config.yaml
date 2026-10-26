@@ -1,0 +1,12 @@
+project: Government Budget Allocation Forecasting
+algorithm: Artificial Immune System
+optimization: Clonal Selection Algorithm
+population_size: 50
+generations: 200
+clone_factor: 5
+mutation_rate: 0.2
+model: Linear Trend
+features:
+- Year
+target: Budget_Allocation
+evaluation: Training Data Only

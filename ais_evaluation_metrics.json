@@ -1,0 +1,24 @@
+{
+    "algorithm": "Artificial Immune System",
+    "optimization": "Clonal Selection",
+    "dataset_records": 3,
+    "AIS_Metrics": {
+        "MAE": 3.051386881747135,
+        "MSE": 10.49074901057723,
+        "RMSE": 3.2389425759925463,
+        "R2": 0.9934461004093188,
+        "MAPE": 1.3220320746561762,
+        "Accuracy_Percentage": 98.67796792534382
+    },
+    "Baseline_Metrics": {
+        "MAE": 3.0488888888889014,
+        "MSE": 10.45768888888893,
+        "RMSE": 3.2338350126264834,
+        "R2": 0.9934667541031382,
+        "MAPE": 1.3343903788262805,
+        "Accuracy_Percentage": 98.66560962117372
+    },
+    "Best_Fitness": 0.006553899590681245,
+    "Evaluation_Type": "In-sample training",
+    "Warning": "Forecasts are illustrative because the historical dataset is very small."
+}
